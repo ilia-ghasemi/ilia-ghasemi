@@ -12,10 +12,14 @@
   <!-- OS -->
   <!-- linux -->
   <a href="https://www.linux.org/" target="_blank"> <img src="./images/Languages-Tools-images/Linux.svg" alt="Linux" width="40" height="40"/> </a>
+  <!--Bash-->
+  <a href="https://www.w3schools.com/bash/" target="_blank"> <img src="./images/Languages-Tools-images/Bash.svg" alt="Bash" width="40" height="40"/> </a>
   <!-- HTML -->
   <a href="https://www.w3schools.com/html/" target="_blank"> <img src="./images/Languages-Tools-images/HTML.png" alt="HTML" width="40" height="40"/> </a>
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="./images/Languages-Tools-images/CSS.png" alt="CSS" width="40" height="40"/> </a>
+  <!--JavaScript-->
+  <a href="https://www.w3schools.com/js/" target="_blank"> <img src="./images/Languages-Tools-images/JavaScript.png" alt="JavaScript" width="40" height="40"/> </a>
   <!-- python -->
   <a href="https://www.python.org" target="_blank"> <img src="./images/Languages-Tools-images/Python.png" alt="Python" width="40" height="40"/> </a>
   <!-- CPP -->
